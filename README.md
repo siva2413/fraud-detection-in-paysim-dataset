@@ -1,5 +1,5 @@
 # fraud-detection-in-paysim-dataset
-fraud detection in paysim dataset
+
 Fraud detection using ML based supervised techniques
 
 Paysim dataset link: https://www.kaggle.com/datasets/ealaxi/paysim1
